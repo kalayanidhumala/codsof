@@ -1,0 +1,39 @@
+<html>    
+<head>
+   
+<title>Portfolio</title> 
+<body style= "background-color:rgb(0, 123, 255);"></body>
+        <h1><b><center>PORTFOLIO</center></b></h1>
+        <h1><b><center> KALYANI DUMALA</center></b></h1>
+           
+
+        <div>
+            <img src="passphoto.jpg" alt="image" width="200"height="200"></img>
+        </div>
+        <h2><b>About Me</b></h2>
+        <p>I am Kalyani. I am pursuing B.Tech in Information Technology. I am enthusiatic learner. I am good at C,Java ,HTML .</p>
+        <h2><b>Skills</b></h2>
+        <div>C</div>
+        <div>Java</div>
+        <div>HTML</div>
+        <div>SQL</div>
+        <h2><b>Projects</b></h2>
+        <div>Title: Telangana Tourism</div>
+        <div>This project helps user to explore the tourist places in Telangana</div>
+        
+        <h2><b>Resume</b></h2>
+        <a href="file:///C:/Users/DELL/Downloads/DUMALA_KALYANI.pdf"></a>
+        <h2><b>Contact</b></h2>
+        <div>Email: kalayanidhumala@gmail.com</div>
+        <div>Contact: 7032211724</div>
+       
+        <table id="footer" border="0" width="100%"
+		cellpadding="0" cellspacing="0" bgcolor="black">
+	    <p><div>©Copyright 2050 by nobody.</div>
+           <div>All rights reserved.</div></p>
+			
+								
+	</table>
+	
+    </body>
+</html>
